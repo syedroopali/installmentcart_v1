@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     default: "Installment Cart",
   },
   description:
-    "Installment Cart is a Online Shopping market place where you can buy almost every thing available in the market on easy monthly or even weekly installments",
+    "Installment Cart is a Online Shopping market place, where you can buy almost every thing available in the market on easy monthly or even weekly installments",
 };
 
 export default function RootLayout({

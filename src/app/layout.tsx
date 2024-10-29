@@ -9,7 +9,7 @@ const inter = Inter({
   display: "swap",
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: {
     template: "%s - Installment Cart",
     default: "Installment Cart",
